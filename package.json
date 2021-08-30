@@ -1,0 +1,23 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "description": "Snake CLI Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexva397/node-snake.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexva397/node-snake/issues"
+  },
+  "homepage": "https://github.com/Alexva397/node-snake#readme",
+  "dependencies": {
+    "figlet": "^1.5.2",
+    "keypress": "^0.2.1"
+  }
+}
